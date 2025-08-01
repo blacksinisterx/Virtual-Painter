@@ -1,0 +1,342 @@
+{
+  "history": [
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753836052.5314398,
+      "usage_count": 2,
+      "context": "initial"
+    },
+    {
+      "color": [
+        255,
+        255,
+        0
+      ],
+      "timestamp": 1753836028.623243,
+      "usage_count": 1,
+      "context": "palette_selection"
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "timestamp": 1753836045.7444665,
+      "usage_count": 1,
+      "context": "palette_selection"
+    },
+    {
+      "color": [
+        0,
+        128,
+        255
+      ],
+      "timestamp": 1753836053.0247087,
+      "usage_count": 1,
+      "context": "palette_selection"
+    },
+    {
+      "color": [
+        255,
+        128,
+        0
+      ],
+      "timestamp": 1753836127.9121819,
+      "usage_count": 1,
+      "context": "palette_selection"
+    },
+    {
+      "color": [
+        128,
+        128,
+        128
+      ],
+      "timestamp": 1753836129.9476068,
+      "usage_count": 1,
+      "context": "palette_selection"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753837575.8154588,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        128,
+        255
+      ],
+      "timestamp": 1753837698.3807943,
+      "usage_count": 1,
+      "context": "palette_selection"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753838182.9612427,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753838820.03497,
+      "usage_count": 2,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753839461.944617,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753839788.4197788,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753840297.569487,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753840800.071931,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753841962.2851412,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753842466.6824613,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1753842853.0097108,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754005151.704813,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754008658.8488228,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754009228.6273508,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754009636.2879312,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754011260.3350046,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754012973.2263885,
+      "usage_count": 2,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754013771.3711789,
+      "usage_count": 2,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754014076.2693486,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754015355.2452755,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754016075.0713212,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754017445.3232148,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754018353.4441135,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754018899.8208714,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754019441.33642,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754020111.7359552,
+      "usage_count": 1,
+      "context": "initial"
+    },
+    {
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "timestamp": 1754020892.4026837,
+      "usage_count": 1,
+      "context": "initial"
+    }
+  ],
+  "usage": {
+    "0,0,255": 31,
+    "255,255,0": 1,
+    "0,255,0": 1,
+    "0,128,255": 2,
+    "255,128,0": 1,
+    "128,128,128": 1
+  }
+}
