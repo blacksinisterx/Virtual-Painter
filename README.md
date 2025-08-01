@@ -1,4 +1,4 @@
-# 🎨 CV Art Experiments
+# 🎨 Virtual-Painter
 
 > **Transform your hands into digital brushes with cutting-edge computer vision**
 
