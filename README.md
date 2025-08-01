@@ -424,10 +424,6 @@ pip install -r requirements-dev.txt  # if available
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### 🙏 **Acknowledgments**
 - **MediaPipe** team for excellent hand tracking
 - **OpenCV** community for computer vision tools
